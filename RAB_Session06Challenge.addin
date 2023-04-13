@@ -4,7 +4,7 @@
     <Text>Command RAB_Session06Challenge</Text>
     <Description>Some description for RAB_Session06Challenge</Description>
     <Assembly>RAB_Session06Challenge.dll</Assembly>
-    <FullClassName>RAB_Session06Challenge.Command</FullClassName>
+    <FullClassName>RAB_Session06Challenge.CmdCommand1</FullClassName>
     <ClientId>17addfb8-e77f-4c4f-8431-91fbd8936b77</ClientId>
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
